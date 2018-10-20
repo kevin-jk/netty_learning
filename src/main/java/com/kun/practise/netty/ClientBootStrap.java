@@ -1,8 +1,6 @@
 package com.kun.practise.netty;
 
-import com.kun.practise.netty.client.EchoClientHandler;
 import com.kun.practise.netty.timeserver.timeClient.TimeClientHandler;
-import com.kun.practise.netty.timeserver.timeserverhandler.TimerServerHandler;
 import io.netty.bootstrap.Bootstrap;
 import io.netty.channel.ChannelFuture;
 import io.netty.channel.ChannelHandler;

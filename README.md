@@ -1,2 +1,2 @@
 # netty_learning
-Netty学习Demo
+Netty学习中测试Demo及部分知识点记录
